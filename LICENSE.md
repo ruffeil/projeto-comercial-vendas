@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Licença
+Distribuído sob a Licença MIT. Sinta-se à vontade para evoluir este framework mantendo os créditos de autoria.
+
+
+Desenvolvido por J. F. Ruffeil
+[GitHub](https://github.com/ruffeil)
